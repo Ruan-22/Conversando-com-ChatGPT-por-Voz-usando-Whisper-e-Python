@@ -1,6 +1,6 @@
 # Conversando com ChatGPT por Voz usando Whisper e Python
 
-Código desenvolvido no Colab
+Código desenvolvido no Colab no Bootcamp da DIO
 
 # 1. Gravação de Áudio
 Usando Python e um pouco de JavaSript para gravar a voz e reproduzi-la\
